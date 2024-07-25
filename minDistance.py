@@ -1,4 +1,6 @@
 import random
+# Hello
+# Test
 def euclideanDistance(coordinates1, coordinates2):
     return ((coordinates1[0] - coordinates2[0])**2 + (coordinates1[1] - coordinates2[1])**2)**(1/2)
 
